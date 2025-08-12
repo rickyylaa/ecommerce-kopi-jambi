@@ -1,4 +1,4 @@
-# 📚 Ecommerce Kopi Jambi
+# ☕ Ecommerce Kopi Jambi
 
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-orange.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.0+-purple.svg)](https://php.net)
